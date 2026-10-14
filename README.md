@@ -26,3 +26,6 @@ demographics, and job satisfaction using Tableau.
 ## Project Files
 - Tableau workbook (.twbx)
 - Dashboard screenshot (.png)
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
